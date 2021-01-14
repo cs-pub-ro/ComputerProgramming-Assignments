@@ -1,7 +1,5 @@
 #!/bin/bash
 
-SRC_DIR=..
-
 INPUT_DIR=./input
 
 OUT_DIR=./out
@@ -11,7 +9,7 @@ TASK3_OUT_DIR=$OUT_DIR/task3
 TASK4_OUT_DIR=$OUT_DIR/task4
 BONUS_OUT_DIR=$OUT_DIR/bonus
 
-EXE=$SRC_DIR/sudoku
+EXE=./sudoku
 
 POINTS=0.0
 
